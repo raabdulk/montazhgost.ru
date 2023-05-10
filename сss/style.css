@@ -2,7 +2,6 @@
 .header {
   padding-top: 36px;
   padding-bottom: 36px;
-  border: 0.1px solid #000;
   background: linear-gradient(180deg, #F4F4F4 0%, #E9E9E9 100%);
 }
 .header__top {
@@ -69,7 +68,6 @@
 .description {
   padding-top: 52px;
   padding-bottom: 52px;
-  border: 1px solid #000;
 }
 .description__top {
   text-align: center;
@@ -125,7 +123,6 @@
   padding-top: 70px;
   padding-bottom: 50px;
   background: #333333;
-  border: 1px solid #000;
   height: 100px;
 }
 .warranty__top-text {
